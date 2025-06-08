@@ -1,1 +1,6 @@
-
+[aelangov@login01(Bradford-HPC) ~]$ ls -la /storage/apps/software/centrifuge/1.0.3/indices/
+total 20
+drwxrwxr-x 2 root support  4096 May 28  2021 .
+drwxrwxr-x 5 root support  4096 May 28  2021 ..
+-rwxrwxr-x 1 root support 11711 May 28  2021 Makefile
+[aelangov@login01(Bradford-HPC) ~]$
